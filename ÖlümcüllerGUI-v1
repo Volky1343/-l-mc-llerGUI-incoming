@@ -1,6 +1,6 @@
 local player = game.Players.LocalPlayer
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/V0LKX-Script/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet('https://github.com/Volky1343/OlumcullerGUI-incoming/blob/main/%C3%96l%C3%BCmc%C3%BCllerGUI-v1'))()
 
 local Window = OrionLib:MakeWindow({Name = "ÖlümcülGUİ", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
